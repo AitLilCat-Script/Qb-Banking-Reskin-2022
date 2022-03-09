@@ -1,6 +1,8 @@
 # Qb-Banking-Reskin-2022
 Qb-Banking resking Made for QB-Core
 
+https://www.youtube.com/watch?v=2hC2G1uwlcY
+
 Before
 ![image](https://user-images.githubusercontent.com/69047868/157495083-ac789286-e82a-411d-98ac-e612f38ece2b.png)
 
